@@ -85,7 +85,17 @@ main {
 }
 
 .anh-va-lien-he {
+    /* width: 50%; */
     float: left;
+}
+
+.gioi-thieu {
+    /* padding-left: 500px; */
+    /* width: 50%; */
+    display: block;
+    top: 0;
+    right: 0;
+    /* clear: left; */
 }
 
 aside {
